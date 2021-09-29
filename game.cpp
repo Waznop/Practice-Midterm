@@ -12,6 +12,6 @@ int main() {
   srand(seed);
 
   // TODO: Follow instructions in README.md.
-
+  
   return 0;
 }
