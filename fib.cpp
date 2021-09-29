@@ -6,7 +6,7 @@
 using namespace std;
 
 int main() {
-	// TODO: Follow instructions in README.md.
+  // TODO: Follow instructions in README.md.
 
   return 0;
 }

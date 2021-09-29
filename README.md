@@ -15,8 +15,6 @@ This section has a total of 40 points. The written section which is entirely on 
 
 For the programming section, each of the 3 questions gives you a maximum of 20 points. **We will only count your best 2 out of 3 questions**. This means that you can get 40/40 by only completing 2 questions. This also means that you can't get over 40/40 even if you attempt all 3 questions. Submit your code to `Practice Midterm - Programming` on Gradescope.
 
-**Warning**: Unlike all the programming labs until now, some test cases will be hidden from you. This means that you won't be able to see the entirety of your autograded results when you submit to Gradescope. However, you can still submit as many times as you want before the exam finishes.
-
 ## Question 1: fib.cpp
 
 [Fibonacci numbers](https://en.wikipedia.org/wiki/Fibonacci_number) are numbers that satisfy the following rules:
