@@ -11,9 +11,9 @@ Read all instructions before you begin.
 
 ## Programming section
 
-This section has a total of 40 points. The written section which is entirely on Gradescope has a total of 60 points.
+This section has a total of 60 points. The written section which is entirely on Gradescope has a total of 40 points.
 
-For the programming section, each of the 3 questions gives you a maximum of 20 points. **We will only count your best 2 out of 3 questions**. This means that you can get 40/40 by only completing 2 questions. This also means that you can't get over 40/40 even if you attempt all 3 questions. Submit your code to `Practice Midterm - Programming` on Gradescope.
+For the programming section, each of the 3 questions gives you a maximum of 30 points. **We will only count your best 2 out of 3 questions**. This means that you can get 60/60 by only completing 2 questions. This also means that you can't get over 60/60 even if you attempt all 3 questions. Submit your code to `Practice Midterm - Programming` on Gradescope.
 
 ## Question 1: fib.cpp
 
@@ -200,10 +200,11 @@ You win with a total of 21.
 
 ## Rubric
 
-* (40 points) Programming
-  * (20 points each) best 2 of `fib.cpp`, `cherry.cpp` and `game.cpp`
+* (60 points) Programming
+  * (30 points each) best 2 of `fib.cpp`, `cherry.cpp` and `game.cpp`
+    * 1 point for writing code that compiles
     * 1 point for removing all TODOs
     * 1 point for inscribing your name
-    * 2 points for complying to coding style rules
-    * 16 points for the program behaving properly
-* (60 points) Written – see Gradescope for point breakdowns
+    * 3 points for complying to coding style rules
+    * 24 points for the program behaving properly
+* (40 points) Written – see Gradescope for point breakdowns
