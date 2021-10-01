@@ -7,7 +7,7 @@
 Read all instructions before you begin.
 * This exam is open-notes. You may look at your notes, a textbook, the course materials, or any other online resource.
 * You may NOT ask anyone for help. You must complete the exam entirely on your own. Asking for help or answers from others counts as cheating and will result in getting a 0 on the entire midterm.
-* If an emergency occurs during the exam, you must notify the instructors by email as soon as possible.
+* If an emergency occurs during the exam, you must notify the instructor as soon as possible.
 
 ## Programming section
 
