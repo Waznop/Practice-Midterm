@@ -1,4 +1,4 @@
 language = "cpp"
-run = "g++ fib.cpp; ./a.out"
-# run = "g++ cherry.cpp; ./a.out"
-# run = "g++ game.cpp; ./a.out"
+run = "g++ fib.cpp && ./a.out"
+# run = "g++ cherry.cpp && ./a.out"
+# run = "g++ game.cpp && ./a.out"
